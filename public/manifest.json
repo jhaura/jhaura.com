@@ -1,0 +1,11 @@
+{
+  "name": "jhaura",
+  "short_name": "jhaura",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#2a2627",
+  "theme_color": "#2a2627",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}

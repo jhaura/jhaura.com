@@ -1,0 +1,26 @@
+{
+  "name": "jhaura.com",
+  "version": "1.0.0",
+  "description": "@jhaura",
+  "private": true,
+  "license": "MIT",
+  "author": "jhaura <hi@jhaura.com>",
+  "homepage": "https://www.jhaura.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaura/jhaura.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhaura/jhaura.com/issues"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.135.0"
+  }
+}

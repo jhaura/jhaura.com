@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "jhaura-com",
   "compatibility_date": "2026-09-01",
-  "account_id": "3d9ffaf2f02e82e572f9990c4bbdfe5c",
+  "account_id": "959a830494897179a2e2a88af2fa1990",
   "assets": {
     "directory": "./public",
     "not_found_handling": "404-page",
